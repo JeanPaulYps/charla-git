@@ -1,2 +1,2 @@
 Esta es mi primera vez en Git
-Aquí voy a causar un conflicto
+Este es el conflicto
