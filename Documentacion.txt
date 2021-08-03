@@ -1,3 +1,4 @@
 Esta es mi primera vez en Git
 Aquí voy a causar un conflicto, esta ves si si
 Aca tengo un cambio en internet
+Tengo un cambio, pero lo voy a hacer mas rapido
